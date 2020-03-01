@@ -14,3 +14,10 @@ https://www.youtube.com/watch?v=TqOeMYtOc1w
 1. Sample mean is not the mean of the whole population, but we can use bootstrapping to determine reasonable values of the mean for the whole population
 2. A 95% confidence interval is just an interval that covers 95% of the bootstrapped means
 3. Two-tailed t-tests are used to determine whether there is a statistically significant difference between two population's means while one-tailed t-tests are used to determine whether a population's mean is statistically larger than or lesser than another population's mean
+
+---
+
+C. 2020/02/30 - StatQuest: R-squared explained
+https://www.youtube.com/watch?v=2AQKmw14mHM&t=5s
+1. R^2 is the percentage of variation explained by the relationship between two variables
+2. R^2 is easier to interpret because it's not obvious that R=0.7 is twice as good as R=0.5, but R^2=0.7 is what it looks like, 1.4 times as good as R^2=0.5
