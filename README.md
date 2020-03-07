@@ -21,3 +21,26 @@ C. 2020/03/01 - StatQuest: R-squared explained
 https://www.youtube.com/watch?v=2AQKmw14mHM&t=5s
 1. R^2 is the percentage of variation explained by the relationship between two variables
 2. R^2 is easier to interpret because it's not obvious that R=0.7 is twice as good as R=0.5, but R^2=0.7 is what it looks like, 1.4 times as good as R^2=0.5
+
+---
+
+D. 2020/03/06 - What is a statistical distribution?
+https://www.youtube.com/watch?v=oI3hZJqXJuc
+1. Advantage of curve is not limited by width of bins and can estimate the measurements
+
+---
+
+D. 2020/03/06 - Histograms, Clearly Explained
+https://www.youtube.com/watch?v=qBigTkBLU6g
+1. Histograms are bins of measurements plotted to see how often a measurement has occurred
+
+---
+
+E. 2020/03/06 - The Normal Distribution, Clearly Explained!!!
+https://www.youtube.com/watch?v=rzFX5NWojp0
+1. Normal distributions are always centered on the average value
+2. The width of the curve is defined by the standard deviation
+3. Normal curves are drawn such that 95% of the measurements fall between +/-2 standard deviations around the mean
+4.
+
+
