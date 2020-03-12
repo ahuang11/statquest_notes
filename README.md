@@ -41,6 +41,17 @@ https://www.youtube.com/watch?v=rzFX5NWojp0
 1. Normal distributions are always centered on the average value
 2. The width of the curve is defined by the standard deviation
 3. Normal curves are drawn such that 95% of the measurements fall between +/-2 standard deviations around the mean
-4.
+
+---
+
+F. 2020/03/11 - StatQuest: Principal Component Analysis (PCA), Step-by-Step
+https://www.youtube.com/watch?v=FgakZw6K1QQ&t=11s
+1. Linear combination is simply a ratio between the two variables to make a PC
+2. Singular Vector or Eigenvector is the 1 unit long vector consisting of x part units and y part units
+3. The Loading Score is the scaled version of the linear combination
+4. The Eigenvalue is the sum of squared distances for a PC
+5. Square root of eigenvalue is the Singular Value for a PC
+6. PC2 is the orthogonal version of PC1 if it's only 2D
+7. Eigenvalues divided by sample size - 1 yields variation
 
 
