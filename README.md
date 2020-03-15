@@ -54,4 +54,9 @@ https://www.youtube.com/watch?v=FgakZw6K1QQ&t=11s
 6. PC2 is the orthogonal version of PC1 if it's only 2D
 7. Eigenvalues divided by sample size - 1 yields variation
 
+---
 
+G. 2020/03/15 - StatQuest: 
+https://www.youtube.com/watch?v=pYxNSUDSFH4
+1. Probabilities are the areas under a fixed distribution. pr(data|distribution)
+2. Likeihoods are the y-axis values for fixed data points with distributions that can be moved. L(distribution|data)
