@@ -60,3 +60,14 @@ G. 2020/03/15 - StatQuest:
 https://www.youtube.com/watch?v=pYxNSUDSFH4
 1. Probabilities are the areas under a fixed distribution. pr(data|distribution)
 2. Likeihoods are the y-axis values for fixed data points with distributions that can be moved. L(distribution|data)
+
+---
+
+H. 2020/03/23 - StatQuest:
+https://www.youtube.com/watch?v=vemZtEM63GY
+1. A 0.05 threshold for p-values means that 5% of the experiments, where the only differences come from weird random things, will generate p-value smaller than 0.05.
+2. Getting a small p-value when there is no difference is called a False Positive.
+3. P-value quantify how confident we should be that one item is different from another item
+4. Hypothesis testing means determining whether two items are different
+5. The null hypothesis is that the two items are the same
+6. While p-values help decide whether two items are different, it doesn't tell us how different they are
