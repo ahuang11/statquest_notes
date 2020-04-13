@@ -71,3 +71,10 @@ https://www.youtube.com/watch?v=vemZtEM63GY
 4. Hypothesis testing means determining whether two items are different
 5. The null hypothesis is that the two items are the same
 6. While p-values help decide whether two items are different, it doesn't tell us how different they are
+
+---
+
+I. 2020/04/11 - StatQuest - Sample Size and Effective Sample Size, Clearly Explained
+1. Technical replicates only count when we want to describe a method
+2. If we can calculate the correlation, we can calculate the effective sample size
+3. Effective sample size = number of samples / (1 + (number of samples - 1) * correlation
